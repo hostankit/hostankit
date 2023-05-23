@@ -165,7 +165,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: grey;
+    background: url("https://gcdn.hosteldevta.com/hosteldevta-a3c8d.appspot.com/blogs/2023/1684862267641ddf5xjb.webp") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
