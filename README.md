@@ -30,18 +30,9 @@ I'm [Ankit](https://linkedin.com/in/luckyhero613), I write code, develop softwar
 - 💬 Ask me about and can take help from me in software design and development.
 - ⚡ Fun fact: I love to code only with keyboard and mouse
 
-#### More About Me
-
-- Currently Pursuing B.tech from [NIT Silchar](http://nits.ac.in)
-- Actively working on [HostelDevta](https://hosteldevta.com)
-
 #### Let's connect: 
-* [Portfolio (password: ankit)](https://ankitgupta.squarespace.com)
-* [LinkedIn](https://linkedin.com/in/@luckyhero613)
-* [Twitter](https://twitter.com/@luckyhero613)
-* [Instagram](https://instagram.com/@luckyhero613)
-* [Facebook](https://facebook.com/@luckyhero613)
-* [Email](mailto:ag7932613@gmail.com)
+* [Portfolio](https://ankitgupta.me)
+* [LinkedIn](https://linkedin.com/in/hostankit)
 
 #### Codes
 
