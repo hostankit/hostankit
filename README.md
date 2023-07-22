@@ -30,10 +30,6 @@ I'm [Ankit](https://linkedin.com/in/hostankit), I write code and develop softwar
 - 💬 Ask me about and can take help from me in software design and development.
 - ⚡ Fun fact: I love to code only with keyboard and mouse
 
-#### Let's connect: 
-* [Portfolio](https://ankitgupta.me)
-* [LinkedIn](https://linkedin.com/in/hostankit)
-
 #### Codes
 
 ```html
