@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-I'm [Ankit](https://linkedin.com/in/luckyhero613), I write code, develop software and operate company for a living.<br/>
+I'm [Ankit](https://linkedin.com/in/hostankit), I write code and develop software for a living.<br/>
 
 #### 👨‍💻 Repositories I created recently<br/>
-- [luckyhero613/fashby](https://github.com/luckyhero613/fashby) - Fashion Marketplace using React
-- [luckyhero613/docublock](https://github.com/luckyhero613/docublock) - DApp document management system on blockchain
-- [luckyhero613/voice-assistant-zuzu](https://github.com/luckyhero613/voice-assistant-zuzu) - Python based voice assistant
-- [luckyhero613/qr-code-generator](https://github.com/luckyhero613/qr-code-generator) - Python based QR generator
-- [luckyhero613/text-to-handwriting](https://github.com/luckyhero613/text-to-handwriting) - Python program to convert text to handwriting
-- [luckyhero613/student_database](https://github.com/luckyhero613/student-database) - Student database management using Bash and PostGreSQL
+- [hostankit/fashby](https://github.com/hostankit/fashby) - Fashion Marketplace using React
+- [hostankit/docublock](https://github.com/hostankit/docublock) - DApp document management system on blockchain
+- [hostankit/voice-assistant-zuzu](https://github.com/hostankit/voice-assistant-zuzu) - Python based voice assistant
+- [hostankit/qr-code-generator](https://github.com/hostankit/qr-code-generator) - Python based QR generator
+- [hostankit/text-to-handwriting](https://github.com/hostankit/text-to-handwriting) - Python program to convert text to handwriting
+- [hostankit/student_database](https://github.com/hostankit/student-database) - Student database management using Bash and PostGreSQL
 
 #### 👷🏽 Projects I have deployed recently<br/>
 - [HostelDevta](https://hosteldevta.com) - Hostels & paying guest booking marketplace
@@ -18,9 +18,9 @@ I'm [Ankit](https://linkedin.com/in/luckyhero613), I write code, develop softwar
 - [HostelDevta Hostelhub v2022](https://hostelhub.hosteldevta.com) - Hostelhub simplifies relationship with customers
 
 #### 📄 Latest blog posts
-- [How to create custom Angular Library easily](https://luckyhero613.medium.com/how-to-create-custom-angular-library-easily-5fbc7d37f271)
-- [How to build your own free website](https://luckyhero613.medium.com/how-to-build-your-own-free-website-easily-and-as-fast-as-you-can-8e805eaac6e8)
-- [Top 10 Free developer community across the world](https://luckyhero613.medium.com/top-10-free-developer-community-across-the-world-420deec068e4)
+- [How to create custom Angular Library easily](https://hostankit.medium.com/how-to-create-custom-angular-library-easily-5fbc7d37f271)
+- [How to build your own free website](https://hostankit.medium.com/how-to-build-your-own-free-website-easily-and-as-fast-as-you-can-8e805eaac6e8)
+- [Top 10 Free developer community across the world](https://hostankit.medium.com/top-10-free-developer-community-across-the-world-420deec068e4)
 
 #### 👨🏽‍💼 Facts about me<br/>
 
